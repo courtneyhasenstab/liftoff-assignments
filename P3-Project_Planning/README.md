@@ -7,9 +7,9 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-import /Users/courtney/Downloads/IMG_1922.jpg.png
-import /Users/courtney/Downloads/IMG_1923.jpg.png
-import /Users/courtney/Downloads/IMG_1924.jpg.png
+import /Users/courtney/Downloads/IMG_1922.jpg
+import /Users/courtney/Downloads/IMG_1923.jpg
+import /Users/courtney/Downloads/IMG_1924.jpg
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 ### Project Tracker
